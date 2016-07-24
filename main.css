@@ -1,0 +1,35 @@
+*{
+  padding-left: 35px;
+  padding-top:  5px;
+  font-size: large;
+}
+
+  header, h3 {
+    font-family: 'dancing script';
+  }
+
+  body {
+  background-color: orange;
+  font-family: 'mirza';
+}
+
+section {
+  width: 1200px;
+}
+
+address {
+  width: 875px;
+}
+
+h1, h3 {
+}
+
+h1:hover, h3:hover, section:hover, address:hover {
+color: #dc143c;
+}
+
+h1:hover:first-letter, h3:hover:first-letter, section:hover:first-letter, address:hover:first-letter {
+  text-transform: capitalize;
+  color; yellow;
+  font-size: 25px;
+}
