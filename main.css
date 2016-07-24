@@ -1,14 +1,14 @@
-*{
+* {
   padding-left: 35px;
-  padding-top:  5px;
+  padding-top: 5px;
   font-size: large;
 }
 
-  header, h3 {
-    font-family: 'dancing script';
-  }
+header, h3 {
+  font-family: 'dancing script';
+}
 
-  body {
+body {
   background-color: orange;
   font-family: 'mirza';
 }
@@ -31,5 +31,5 @@ color: #dc143c;
 h1:hover:first-letter, h3:hover:first-letter, section:hover:first-letter, address:hover:first-letter {
   text-transform: capitalize;
   color; yellow;
-  font-size: 25px;
+  /*font-size: 25px;*/
 }
